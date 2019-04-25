@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/gem-lolcat-blue.svg)
 
 
-![alt text](https://github.com/INDOnimous/INDOvirus/blob/master/image/as.png)
+![alt text](https://github.com/INDOnimous/INDOvirus/blob/master/image/ss.png)
 
 ### Installation Termux
 ```
